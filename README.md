@@ -73,6 +73,86 @@
 * Level 69 to 70: 76,590 EXP. - Once hitting level 70, you can carry 90 gags and carry 7,500 beans. Unknown what else.
 
 
-### Credits:
+### Gag Configurations
+*Tracks / Prestiges*
+7 / 1
+6 / 3 (most effective)
+5 / 5
 
- * Puppah! :)
+### Prestiges 
+_Toon-Up: 50% Self-heal of total Toon-Up gag._
+   - Feather returns 4 laff on a successful heal
+   - Megaphone returns 7 laff on a successful heal
+   - Lipstick returns 13 laff on a successful heal
+   - Bamboo Cane returns 19 laff on a successful heal
+   - Pixie Dust returns 25 laff on a successful heal
+   - Juggling Balls returns 39 laff on a successful heal
+   - Treasure Chest returns 47 laff on a successful heal
+   - High Dive returns 67 laff on a successful heal
+
+_Trap: Trap gag damage increases by the selected Cog's Level x3. (Add 3 damage for each increasing level)_
+   - Banana Peel (20 base damage)
+     * Cog Level 1: 23 damage | Cog Level 2: 26 damage | Cog Level 3: 29 damage | Cog Level 4: 32 damage | Cog Level 5: 35 damage | Cog       Level 6: 38 damage | Cog Level 7: 41 damage | Cog Level 8: 44 damage | Cog Level 9: 47 damage | Cog Level 10: 50 damage | Cog           Level 11: 53 damage | Cog Level 12: 56 damage| Cog Level 13: 59 damage | Cog Level 14: 62 damage | Cog Level 15: 65 damage | Cog         Level 16: 68 damage
+   - Rake (30 base damage)
+     * Cog Level 1: 33 damage | Cog Level 2: 36 damage | Cog Level 3: 39 damage | Cog Level 4: 42 damage | Cog Level 5: 45 damage | Cog       Level 6: 48 damage | Cog Level 7: 51 damage | Cog Level 8: 54 damage | Cog Level 9: 57 damage | Cog Level 10: 60 damage | Cog           Level 11: 63 damage | Cog Level 12: 66 damage| Cog Level 13: 69 damage | Cog Level 14: 72 damage | Cog Level 15: 75 damage | Cog         Level 16: 78 damage
+   - Spring Board (45 base damage)
+     * Cog Level 1: 48 damage | Cog Level 2: 51 damage | Cog Level 3: 54 damage | Cog Level 4: 57 damage | Cog Level 5: 60 damage | Cog       Level 6: 63 damage | Cog Level 7: 66 damage | Cog Level 8: 69 damage | Cog Level 9: 72 damage | Cog Level 10: 75 damage | Cog           Level 11: 78 damage | Cog Level 12: 81 damage| Cog Level 13: 84 damage | Cog Level 14: 87 damage | Cog Level 15: 90 damage | Cog         Level 16: 93 damage
+   - Marbles (60 base damage)
+     * Cog Level 1: 63 damage | Cog Level 2: 66 damage | Cog Level 3: 69 damage | Cog Level 4: 72 damage | Cog Level 5: 75 damage | Cog       Level 6: 78 damage | Cog Level 7: 81 damage | Cog Level 8: 84 damage | Cog Level 9: 87 damage | Cog Level 10: 90 damage | Cog           Level 11: 93 damage | Cog Level 12: 96 damage| Cog Level 13: 99 damage | Cog Level 14: 102 damage | Cog Level 15: 105 damage | Cog         Level 16: 108 damage
+   - Quicksand (85 base damage)
+     * Cog Level 1: 88 damage | Cog Level 2: 91 damage | Cog Level 3: 94 damage | Cog Level 4: 97 damage | Cog Level 5: 100 damage | Cog       Level 6: 103 damage | Cog Level 7: 106 damage | Cog Level 8: 109 damage | Cog Level 9: 112 damage | Cog Level 10: 115 damage | Cog       Level 11: 118 damage | Cog Level 12: 121 damage| Cog Level 13: 124 damage | Cog Level 14: 127 damage | Cog Level 15: 130 damage |       Cog Level 16: 133 damage
+   - Trap Door (140 base damage)
+     * Cog Level 1: 143 damage | Cog Level 2: 146 damage | Cog Level 3: 149 damage | Cog Level 4: 152 damage | Cog Level 5: 155 damage |      Cog Level 6: 158 damage | Cog Level 7: 161 damage | Cog Level 8: 164 damage | Cog Level 9: 167 damage | Cog Level 10: 170 damage |      Cog Level 11: 173 damage | Cog Level 12: 176 damage| Cog Level 13: 179 damage | Cog Level 14: 182 damage | Cog Level 15: 185 damage      | Cog Level 16: 188 damage
+   - Wrecking Ball (200 base damage)
+     * Cog Level 1: 203 damage | Cog Level 2: 206 damage | Cog Level 3: 209 damage | Cog Level 4: 212 damage | Cog Level 5: 215 damage |        Cog Level 6: 218 damage | Cog Level 7: 221 damage | Cog Level 8: 224 damage | Cog Level 9: 227 damage | Cog Level 10: 230 damage        | Cog Level 11: 233 damage | Cog Level 12: 236 damage| Cog Level 13: 239 damage | Cog Level 14: 242 damage | Cog Level 15: 245          damage | Cog Level 16: 248 damage
+   - TNT (240 base damage)
+     * Cog Level 1: 243 damage | Cog Level 2: 246 damage | Cog Level 3: 249 damage | Cog Level 4: 252 damage | Cog Level 5: 255 damage |        Cog Level 6: 258 damage | Cog Level 7: 261 damage | Cog Level 8: 264 damage | Cog Level 9: 267 damage | Cog Level 10: 270 damage        | Cog Level 11: 273 damage | Cog Level 12: 276 damage| Cog Level 13: 279 damage | Cog Level 14: 282 damage | Cog Level 15: 285          damage | Cog Level 16: 288 damage
+
+  _Lure: Help Toons in battle by increasing the 'knock-back' bonus of lure!_
+  
+  _Sound: Prestige Sound damage is increased by half the highest Cog's level._
+    Cog Level / Added Damage
+    - 1/0
+    - 2/1
+    - 3/1
+    - 4/2
+    - 5/2
+    - 6/3
+    - 6/3 
+    - 7/3
+    - 8/4 
+    - 8/4
+    - 9/4
+    - 10/5
+    - 11/5
+    - 12/6
+    - 13/6
+    - 14/7
+    - 15/7
+    - 16/8
+    - 17/8
+    - 18/9
+    Tip: If all 4 toons have prestige sound, lower level gags could do more damage when combined on a set of cogs.
+    
+  _Squirt: 1. Cog's defense is decreased by 20% (Cogs dodge less often).
+           2. Total number of rounds the Cog is soaked increases by 1.
+           3. Surrounding Cogs of the Targeted Cog also become soaked._
+
+  _Zap: 1. Less damage reduction over jumps (3x, 2.5x, 2x)
+        2. Zap can travel through non soaked cogs, leaving them unharmed to cause damage to far away soaked cogs._
+        
+  _Throw: 1.Throw damage is increased by 10%._
+    - Cupcake: 6.6
+    - Fruit Pie Slice: 11
+    - Cream Pie Slice: 18.7
+    - Birthday Cake Slice: 29.7
+    - Whole Fruit Pie: 44
+    - Whole Cream Pie: 77
+    - Birthday Cake: 110
+    - Wedding Cake: 143
+        
+  _Drop: Accuracy increase by 20%._
+        
+  
+
+ 
