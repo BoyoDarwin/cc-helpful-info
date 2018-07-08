@@ -75,9 +75,9 @@
 
 ### Gag Configurations
 *Tracks / Prestiges*
-7 / 1
-6 / 3 (most effective)
-5 / 5
+- 7 / 1
+- 6 / 3 (most effective)
+- 5 / 5
 
 ### Prestiges 
 _Toon-Up: 50% Self-heal of total Toon-Up gag._
